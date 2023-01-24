@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748861483590",
+    "firebase_url": "https://talash1-e673c-default-rtdb.firebaseio.com",
+    "project_id": "talash1-e673c",
+    "storage_bucket": "talash1-e673c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748861483590:android:9571a2c64bdb27bf6f3847",
+        "android_client_info": {
+          "package_name": "com.example.talash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748861483590-336uvgd4am6691olhvdqclodo5h1tn66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0NTWzXglJDOMLur3pyNcHDDlJn03h9dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748861483590-336uvgd4am6691olhvdqclodo5h1tn66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
